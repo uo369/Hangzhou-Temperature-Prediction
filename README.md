@@ -48,3 +48,13 @@ Future improvements may include:
 - Connecting real-time weather APIs
 - Updating predictions automatically
 - Exploring advanced time-series models
+- ## Visualisations
+
+### Model Comparison
+![Model Comparison](model_comparison.png)
+
+### Residual Plot
+![Residual Plot](residual_plot.png)
+
+### Feature Importance
+![Feature Importance](feature%20importance.png)
