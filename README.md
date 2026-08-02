@@ -57,4 +57,4 @@ Future improvements may include:
 ![Residual Plot](residual_plot.png)
 
 ### Feature Importance
-![Feature Importance](feature%20importance.png)
+![Feature Importance](feature_importance.png)
