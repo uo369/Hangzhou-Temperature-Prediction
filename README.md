@@ -33,8 +33,10 @@ The models were evaluated using:
 - Mean Absolute Error (MAE)
 - R² Score
 
-Random Forest achieved better performance than Linear Regression after adding temporal features.
+Random Forest achieved:
 
+MAE: 0.80
+R²: 0.9848
 ## Feature Importance
 
 The model showed that previous-day temperature was the most important factor for short-term temperature prediction.
